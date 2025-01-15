@@ -58,7 +58,7 @@ Templates, libraries or utilities that use Dojo.
 - [Loot Underworld](https://github.com/underware-gg/lootunderworld) - Excavating the dangerous, endless mysteries of the subterranean in the dark depths of the Realms Autonomous (Under)World.
 - [Mancala](https://github.com/realm-of-ra/mancala) - An onchain strategy board game.
 - [Moving Mountains With Yu](https://github.com/FrostStarBook/moving-mountains-with-yu) - An onchain casual idle game
-- [Pistols at Ten Blocks](https://github.com/underware-gg/pistols) - Defend thine honour in a duel. Earn yourself glory on the leaderboard, or a shallow grave behind the Fool & Flintlock tavern.
+- [Pistols at Dawn](https://github.com/underware-gg/pistols) - Defend thine honour in a duel. Earn yourself glory on the leaderboard, or a shallow grave behind the Fool & Flintlock tavern.
 - [PixeLAW](https://github.com/pixelaw/game) - A pixel grid-based Autonomous World with coexisting games (i.e. Paint, Snake, Rock-Paper-Scissors).
 - [Realms Autonomous World](https://github.com/BibliothecaDAO/eternum) - The Realms Autonomous World
 - [Skuller](https://github.com/rsodre/skuller) - Custom renderer for the Loot Survivor Adventurer tokens, wrapped with Dojo for easy deployment and upgradability.
